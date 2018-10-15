@@ -4,7 +4,7 @@ Repository local dev docker-compose configuration.
 
 ## Data
 
-Stand up MySQL and Redis.
+MySQL and Redis.
 
 ```
 $ cd data
@@ -33,3 +33,5 @@ Confluent will read CONFLUENT_VERSION and use that to stand up zookeeper, kafka,
 and schema registry.
 
 ## Elastic
+
+TODO
